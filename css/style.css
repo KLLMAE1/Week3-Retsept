@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fjalla+One&display=swap');
+
+header{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: red;
+
+}
+body{
+    background-color: aqua;
+}
+
+.image{
+    width: 500px;
+    margin-left: 42rem;
+}
+
+.ingredients{
+    font-family: 'Dancing Script', cursive;
+    color: darkblue;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions{
+    font-family: 'Fjalla One', sans-serif;
+    color: brown;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
